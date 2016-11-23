@@ -1,6 +1,7 @@
 <?php
 echo 'hello world';
  ?>
+<<<<<<< HEAD
  <!DOCTYPE html>
  <html>
    <head>
@@ -11,3 +12,5 @@ echo 'hello world';
      <h1>fuck</h1>
    </body>
  </html>
+=======
+>>>>>>> 3aff38bfa4ce399e4d9fcb409111d54746625184
